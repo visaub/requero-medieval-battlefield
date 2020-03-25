@@ -1,0 +1,16 @@
+KnightSpeed,3
+KnightImpulse,5.5
+PlayerHealth,200
+PlayerAttack,50
+EasyPlayerRecovery,10
+MediumPlayerRecovery,5
+HardPlayerRecovery,1
+MinimunDistance,1
+MaximumDistance,3
+TimeBetweenAttacks,2
+EasyEnemyHealth,50
+MediumEnemyHealth,100
+HardEnemyHealth,200
+EasyEnemyAttack,20
+MediumEnemyAttack,35
+HardEnemyAttack,50
